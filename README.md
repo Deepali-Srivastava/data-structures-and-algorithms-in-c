@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in C
 
-This [“Data Structures and Algorithms in C”]( https://www.udemy.com/course/data-structures-and-algorithms-in-c/?couponCode=GITHUBSTUDENT ) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course. 
+This [Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c.html) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course. 
 
 ### About the Course
  * Thoroughly detailed course with complete working programs
