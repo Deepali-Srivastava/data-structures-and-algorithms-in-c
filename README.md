@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in C
 
-This [Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-structures-algorithms-c.html) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course. 
+This [Data Structures and Algorithms In C](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=GITHUB50) repository is for the students of my online course available on Udemy. It contains the source code of all the programs used in the course. 
 
 ### About the Course
  * Thoroughly detailed course with complete working programs
@@ -12,7 +12,7 @@ This [Data Structures and Algorithms In C](http://coursegalaxy.com/course/data-s
 
 ### Courses by [Deepali Srivastava](https://www.udemy.com/user/deepalisrivastava/)
 
-[![data-structures-and-algorithms-in-c](https://user-images.githubusercontent.com/98641125/153195841-209d2615-ed5f-4007-ae54-539ac3c1538a.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-c/?couponCode=GITHUBSTUDENT)
+[![data-structures-and-algorithms-in-c](https://user-images.githubusercontent.com/98641125/153195841-209d2615-ed5f-4007-ae54-539ac3c1538a.png)](https://coursegalaxy.newzenler.com/courses/data-structures-algorithms-c-masterclass?coupon=GITHUB50)
 [![data-structures- and-algorithms-in-c-2](https://user-images.githubusercontent.com/98641125/153195975-d359113b-ff13-4aaa-9f06-6f600c0ddc69.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-c-2/?couponCode=GITHUBSTUDENT)
 [![data-structures- and-algorithms-in-csharp](https://user-images.githubusercontent.com/98641125/153196407-99441e67-24a7-4fa0-aaea-78cb39743282.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-csharp/?couponCode=GITHUBSTUDENT)
 [![data-structures- and-algorithms-in-java](https://user-images.githubusercontent.com/98641125/153196280-c2028f4b-d27b-432d-ad5a-9b04be2a3717.png)]( https://www.udemy.com/course/data-structures-and-algorithms-in-java/?couponCode=GITHUBSTUDENT)
